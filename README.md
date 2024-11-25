@@ -16,7 +16,7 @@ The tutorial introduces beginners to the basics of Node.js, helping them underst
 
 The project is based on this YouTube tutorial:  
 [Node.js Basics for Beginners](https://www.youtube.com/watch?v=fBNz5xF-Kx4&t=2233s)  
-*(Replace with the actual link to the video.)*
+
 
 ## Features
 
