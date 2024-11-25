@@ -32,8 +32,4 @@ The project is based on this YouTube tutorial:
 
 - Install [Node.js](https://nodejs.org/) on your system.
 
-### How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/node-basics-tutorial.git
